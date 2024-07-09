@@ -1,0 +1,1 @@
+Welcome to the Cake Factory repository! This project is dedicated to creating a delightful online presence for a cake shop that specializes in crafting exquisite cakes for all occasions. Whether you're looking for a birthday cake, a wedding cake, or just a sweet treat to brighten your day, Cake Factory has something special for everyone.
